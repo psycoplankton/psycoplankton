@@ -1,7 +1,7 @@
 ### Hi there, My name is Vansh Gupta 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Fuzzy Logic Systems and their ability to enhance embedding representation.<br>🌱 I’m currently learning DSA, C++, Competitive Programming, Machine Learning<br>👯 I’m looking to collaborate on Research Internships for upcoming summer '24. I am interested in working on LLMs, Generative Models, and Quantum Machine Learning.
+🔭 I’m currently working on Fuzzy Logic Systems and their ability to enhance embedding representation.<br>🌱 I’m currently learning DSA, C++, Competitive Programming, Machine Learning<br>👯 I’m looking to collaborate on Research Internships for upcoming summer '24. I am interested in working on LLMs, Generative Models, and Quantum Machine Learning.<br> 📫 How to reach me https://vansh.gupta.phy21@itbhu.ac.in
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_psycoplankton)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-gupta-6ba187247/)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/oneshhuu) 

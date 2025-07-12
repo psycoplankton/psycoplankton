@@ -57,14 +57,14 @@ Exposure: Super Resolution, Quantization, Knowledge Distillation, LipSync, Mixed
 
 ### 🧪 IBM Research Intern [AI 4 Code Team]
 May 2025 – Present  
-•⁠  ⁠Contributing to AI for Code tooling and research problems.
-•⁠  ⁠Exploring techniques for intelligent code understanding and generation.
+- ⁠Contributing to AI for Code tooling and research problems.
+- ⁠Exploring techniques for intelligent code understanding and generation.
 
 ---
 ## 🧠 Publications
 Enriching Pre-Training Using Fuzzy Logic
-•⁠  ⁠Published and accepted at an IEEE Conference
-•⁠  ⁠Focused on enhancing language representation through fuzzy logic integration into the pre-training phase.
+- ⁠Published and accepted at an IEEE Conference
+- ⁠Focused on enhancing language representation through fuzzy logic integration into the pre-training phase.
 
 ---
 
